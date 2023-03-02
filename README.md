@@ -29,6 +29,6 @@ Google Colaboratory<br>
 VSCode<br>
 streamlit<br>
 <br>
-インターンの間はGoogle ColaboratoryでPythonでのデータ分析を学んでいたのですが、streamlitを扱うために途中でGoogle Colaboratoryから途中でVSCodeに開発環境を変更いたしました。
+インターンの間はGoogle ColaboratoryでPythonでのデータ分析を学んでいたためGoogle Colaboratoryでコードを記述していましたが、streamlitを扱うために途中でGoogle Colaboratoryから途中でVSCodeに開発環境を変更いたしました。
 
 
