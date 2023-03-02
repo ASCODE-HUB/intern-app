@@ -18,10 +18,10 @@ streamlitを使った理由は、可視化のデザインが良いことと初�
 <br>
 <br>
 # 開発環境
-Google Colaboratory
-VSCode
-streamlit
-
-Google Colaboratoryから途中でVSCodeに開発環境を変更いたしました。
+Google Colaboratory<br>
+VSCode<br>
+streamlit<br>
+<br>
+インターンの間はGoogle ColaboratoryでPythonでのデータ分析を学んでいたのですが、streamlitを扱うために途中でGoogle Colaboratoryから途中でVSCodeに開発環境を変更いたしました。
 
 
